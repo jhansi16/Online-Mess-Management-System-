@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1603968564 source:c:\users\b.jhansi durga devi\desktop\mess\main.c
+	"Mess.h"
+
+1603969380 c:\users\b.jhansi durga devi\desktop\mess\mess.h
+	"conio.h"
+	"stdio.h"
+	"stdlib.h"
+	"windows.h"
+	"process.h"
+	"string.h"
+
+1603968678 source:c:\users\b.jhansi durga devi\desktop\mess\menu.c
+	"Mess.h"
+
+1603969249 source:c:\users\b.jhansi durga devi\desktop\mess\pass.c
+	"Mess.h"
+
+1603968455 source:c:\users\b.jhansi durga devi\desktop\mess\src\sources.cpp
+	"Sources.h"
+
+1603968455 c:\users\b.jhansi durga devi\desktop\mess\include\sources.h
+
+1603969313 source:c:\users\b.jhansi durga devi\desktop\mess\student.c
+	"Mess.h"
+
